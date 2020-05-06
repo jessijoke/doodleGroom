@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/JessicaJoy/groom/static/css/main.647489b3.chunk.css",
+    "main.js": "/JessicaJoy/groom/static/js/main.2acd3cd8.chunk.js",
+    "main.js.map": "/JessicaJoy/groom/static/js/main.2acd3cd8.chunk.js.map",
+    "runtime-main.js": "/JessicaJoy/groom/static/js/runtime-main.996a4ae3.js",
+    "runtime-main.js.map": "/JessicaJoy/groom/static/js/runtime-main.996a4ae3.js.map",
+    "static/css/2.036b41f9.chunk.css": "/JessicaJoy/groom/static/css/2.036b41f9.chunk.css",
+    "static/js/2.f9f6171b.chunk.js": "/JessicaJoy/groom/static/js/2.f9f6171b.chunk.js",
+    "static/js/2.f9f6171b.chunk.js.map": "/JessicaJoy/groom/static/js/2.f9f6171b.chunk.js.map",
+    "index.html": "/JessicaJoy/groom/index.html",
+    "precache-manifest.5075b42ae3e914caf439cf0274306c0d.js": "/JessicaJoy/groom/precache-manifest.5075b42ae3e914caf439cf0274306c0d.js",
+    "service-worker.js": "/JessicaJoy/groom/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/JessicaJoy/groom/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.647489b3.chunk.css.map": "/JessicaJoy/groom/static/css/main.647489b3.chunk.css.map",
+    "static/js/2.f9f6171b.chunk.js.LICENSE.txt": "/JessicaJoy/groom/static/js/2.f9f6171b.chunk.js.LICENSE.txt",
+    "static/media/doodle.jpg": "/JessicaJoy/groom/static/media/doodle.46709149.jpg",
+    "static/media/logo.svg": "/JessicaJoy/groom/static/media/logo.1d06864c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.996a4ae3.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.f9f6171b.chunk.js",
+    "static/css/main.647489b3.chunk.css",
+    "static/js/main.2acd3cd8.chunk.js"
+  ]
+}
